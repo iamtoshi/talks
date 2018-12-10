@@ -1,0 +1,53 @@
+* Replace all text within `{{ ... }}` (also removing the braces) with the proper information.
+* This file will be automatically parsed by our backoffice, all fields are mandatory unless stated otherwise.
+
+`--8<-- DELETE THIS LINE AND EVERYTHING ABOVE IT BEFORE SUBMITTING YOUR PROPOSAL --8<--`
+
+One Code to rule them all
+=========================
+
+* Speaker   : Toshi Gupta
+* Available : 9am-9pm
+* Length    : 30mins
+* Language  : English
+
+Description
+-----------
+I am a mobile application developer (Web developer at heart) at Flipkart, one of the leading Indian e-commerce, serving 20M users a day. One regular day, my manager came to me with the task of developing a feature called “Shop the Look”  for the sale days. I was intrigued by this fashion construct that allowed users to buy a complete customized look of the model in one click checkout. But, my stress levels soared when I heard the app had to be live within a fortnight and higher when it had to be done on all the three mobile platforms(Android, IOS, Web)! This triggered a series of questions in my head :
+~ Do I have to write three different codes on three different stacks for the very same feature? Such redundant life?
+~ What if I am a web developer and aim to reach all platforms but have minimal experience in Android, iOS, Windows etc.?
+~ How do small and medium tech businesses even solve for being on all technology platforms?  
+~ With myriad devices launched every now and then, how will the engineering teams persevere through all major Operating System advancements?
+
+Then there came the savior - our very own JavaScript in conjunction with React Native and React Native for Web. It struck to me that right from an independent developer to a billion dollar company - all of us need “One code to rule them all”. *That meant writing code once and running it on all mobile platforms such as Android, iOS, and web*
+
+Therefore I wish to present this talk for all the JS developers like me who have dreamed of putting up their masterpieces to the world in all the ubiquitous devices irrespective of the Operating Systems.
+This tech stack of Hybrid mobile application development has simplified the way developers code by saving them time and widened the horizons of JavaScript. Additionally, this approach had a few more benefits.
+
+~ You could stick to your love for JavaScript and React. Do not worry if you’re not adept with it, any front-end framework knowledge can help you get on board - it is important to figure out the basics.
+
+~ It not only saves you development time but also time and resources spent in maintenance; thereby allowing you to focus on increasing platform-specific performance rather than rewriting the same feature multiple times.
+
+~ In addition to this interportibility, it provides agility to update the app on refresh without the need to push an update to the App Store/Play Store
+
+In this session, I wish to discuss my journey with the React Native and React Native for the Web and how it requires only basic web development skills used to spin up mobile applications. The audience would relate to the challenges we face with maintaining the different yet logically same codebases and then learn about how we should go about solving them. I will also discuss that how from a product point of view it minimises the resource requirement and speeds up process of going live with a feature.
+I firmly believe the idea of cross-platform application development would prove beneficial to everyone building consumer mobile applications - a developer, a product manager or a CEO/CTO.
+
+
+Speaker Bio
+-----------
+I am Toshi, a fun loving coder, designer and dancer. I create content online by building website and applications for India's largest e-commerce - Flipkart, and in my free time learn UI/UX design and produce videos for my youTube channel. Also, one can find me speaking at front-end meetups and conferences time to time, spreading and gaining knowledge.
+
+Links
+-----
+
+* Blog: www.toshigupta.com
+* Company: Flipkart Internet Pvt. Ltd.
+* GitHub: https://github.com/iamtoshi 
+* YouTube: https://youtube.com/choreocentral
+
+Extra Information
+-----------------
+
+* Link to previous talks: https://www.youtube.com/watch?v=aGea2PBE4TI
+* Link to other public speaking experiences: https://www.toshigupta.com/conferences
